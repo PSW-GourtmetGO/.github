@@ -1,5 +1,6 @@
-
-![Logo](https://avatars.githubusercontent.com/u/166830605?s=200&v=4) 
+<p align="center">
+  <a  target="blank"><img src="https://avatars.githubusercontent.com/u/166830605?s=200&v=4" width="200" /></a>
+</p>
 
 # GourtmetGO
 
